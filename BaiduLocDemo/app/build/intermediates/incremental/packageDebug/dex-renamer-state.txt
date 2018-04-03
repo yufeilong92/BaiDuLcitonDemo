@@ -1,0 +1,4 @@
+#Tue Apr 03 11:10:28 CST 2018
+base.0=E\:\\yfl\\pro\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\yfl\\pro\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

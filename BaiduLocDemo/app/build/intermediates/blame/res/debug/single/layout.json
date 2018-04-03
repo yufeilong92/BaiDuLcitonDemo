@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foreground.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\foreground.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foreground.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\foreground.xml"
+    },
+    {
+        "merged": "E:\\yfl\\pro\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "E:\\yfl\\pro\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "E:\\Users\\mapqa\\Downloads\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.4_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\Users\\mapqa\\Desktop\\7.5demo\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    }
+]
